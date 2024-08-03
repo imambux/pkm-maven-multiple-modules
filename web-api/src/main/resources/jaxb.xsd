@@ -6,7 +6,7 @@
     <xsd:annotation>
         <xsd:appinfo>
             <jaxb:schemaBindings>
-                <jaxb:package name="com.imambux.pkm.maven.webapi.domain"/>
+                <jaxb:package name="com.imambux.maven.domain"/>
             </jaxb:schemaBindings>
         </xsd:appinfo>
     </xsd:annotation>

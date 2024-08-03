@@ -1,4 +1,4 @@
-package com.imambux.pkm.maven.jpaentities;
+package com.imambux.maven.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
