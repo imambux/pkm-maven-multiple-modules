@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.imambux.practice</groupId>
         <artifactId>pkm-maven-multiple-modules</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>${revision}</version>
     </parent>
 
     <artifactId>web-api</artifactId>
