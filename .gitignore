@@ -13,3 +13,6 @@ target/
 
 ### Mac OS ###
 .DS_Store
+
+### Maven ###
+.flattened-pom.xml
