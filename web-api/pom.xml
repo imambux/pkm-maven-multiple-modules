@@ -11,16 +11,11 @@
 
     <artifactId>web-api</artifactId>
 
-    <properties>
-        <jaxb.version>2.3.0</jaxb.version>
-    </properties>
-
     <dependencies>
         <!-- Required for jaxb-maven-plugin plugin to generate Java file from XSD (XML) -->
         <dependency>
             <groupId>jakarta.xml.bind</groupId>
             <artifactId>jakarta.xml.bind-api</artifactId>
-            <version>4.0.2</version>
         </dependency>
     </dependencies>
 
